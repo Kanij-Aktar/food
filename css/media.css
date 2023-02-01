@@ -1,0 +1,297 @@
+@media (min-width:0px) and (max-width:768px){
+  .navbar-nav{
+    text-align: center;
+  }
+  .nav-link {
+    display: inline-block;
+  }
+  .navbar-light .navbar-nav .nav-link::before{
+    bottom: -2px;
+  }
+  .navbar-light .navbar-nav .nav-link::after{
+    bottom: -2px;
+  }
+  .navbar-light .navbar-nav .nav-link {
+    padding: 2px;
+    margin: 7px 0;
+}
+.cart img {
+
+}
+}
+@media (max-width:768px){
+  .navbar-light .navbar-nav .nav-link {
+    font-size: 14px;
+}
+.navbar-light .navbar-nav .nav-link {
+  margin-right: 7px;
+}
+
+.navbar>.container, .navbar>.container-fluid, .navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm, .navbar>.container-xl, .navbar>.container-xxl {
+
+  margin-bottom: 3px;
+}
+
+}
+@media (min-width:320px) and (max-width:350px){
+  .cart {
+    padding: 30% 0;
+    display: none;
+}
+
+  .comments-img {
+    width: 65px;
+    height: 65px;
+    margin: 21px 8px;
+}
+.Subscription form input {
+  height: 53px;
+  font-size: 14px;
+  padding-left: 23px;
+  width: 94%;
+
+}
+.last-btn {
+  height: 46px;
+  margin-top: -50px;
+  left: 77%;
+  transform: translate(5%);
+}
+.top-img {
+  display: none;
+}
+}
+@media screen and (max-width: 320px){
+  .top p {
+    font-size: 15px;
+}
+.top-button form input {
+  width: 145%;
+  height: 46px;
+}
+.button-top {
+  width: 37%;
+  height: 46px;
+}
+.top h1 {
+  font-size: 30px;
+}
+.top-img {
+  display: none;
+}
+}
+@media (min-width:320px) and (max-width:767px){
+  .top-img {
+    width: 63%;
+    position: absolute;
+    top: -8px;
+    left: 82px;
+    display: none;
+}
+.cart img {
+  width: 5%;
+}
+.cart {
+  padding: 30% 0;
+  display: none;
+}
+.hg {
+  position: relative;
+}
+.top h1 {
+  text-align: center;
+}
+.top p {
+  padding: 0 50px;
+  font-size: 15px;
+}
+.bg1-img img {
+  display: none;
+}
+.top-button form input {
+  width: 100%;
+  height: 46px;
+}
+.button-top {
+  width: 35%;
+  height: 46px;
+  margin-left: 10px;
+}
+.about-us {
+    margin-top: 100px;
+}
+.about-text {
+  margin-top: 34px;
+  text-align: center;
+}
+.m-center{
+
+}
+.about-text h3 {
+  text-align: center;
+}
+.about-text h1 {
+  text-align: center;
+  width: 100%;
+  padding: 0 22%;
+  font-size: 32px;
+}
+.about-text p {
+  font-size: 18px;
+}
+.background-left {
+
+    display: none;
+}
+
+.browse-one {
+  margin-bottom: 30px;
+}
+.menus {
+  height: 327px;
+  margin-bottom: 20px;
+}
+.browse-two-bg {
+  padding-top: 17px;
+  margin-bottom: 30px;
+}
+
+.news-text h2 {
+    text-align: center;
+}
+
+.news-text p {
+
+    text-align: center;
+
+}
+.news-text h3 {
+    text-align: center;
+
+}
+.news {
+  margin-bottom: 30px;
+  text-align: center;
+}
+.Subscription form input {
+  height: 62px;
+  width: 89%;
+  height: 50px;
+}
+.last-btn {
+  margin-top: -47px;
+  left: 89%;
+  height: 44px;
+  transform: translateX(-89%);
+}
+.footer-img img {
+  display: none;
+}
+.footer-two h3 {
+  text-align: center;
+}
+.footer-two p {
+  font-size: 14px;
+  text-align: center;
+}
+.fotter-logo {
+  text-align: center;
+}
+.footer-one p {
+  text-align: center;
+  padding: 20px 66px;
+}
+.social-icon ul {
+  margin-left: 112px;
+  margin-bottom: 30px;
+}
+
+footer {
+  padding: 40px 0;
+}
+}
+@media (min-width:426px) and (max-width:768px){
+.top p{
+  font-size: 14px;
+}
+.button-top{
+  height: 46px;
+}
+.top-button form input {
+    height: 46px;
+}
+.about-text h1 {
+  font-size: 26px;
+}
+.hg {
+   min-height: 0vh; 
+  align-items: center;
+  margin-top: 55px;
+}
+.about-text p {
+  font-size: 13px;
+
+}
+.btn-Story {
+
+  padding: 15px 29px;
+}
+.menus-text h3 {
+  font-size: 17px;
+}
+.menus-text p {
+  font-size: 13px;
+}
+.star-rating {
+  width: 59%;
+}
+.browse-two-bg h2 {
+  font-size: 15px;
+}
+.bg1-img img {
+  width: 45%;
+}
+
+.history-section .btn-Story{
+padding: 15px 29px;
+}
+.footer-one p {
+  font-size: 14px;
+}
+.footer-two h3 {
+  font-size: 20px;
+}
+
+.footer-two p {
+  font-size: 14px;
+}
+}
+
+@media (min-width:768px) and (max-width:1040px){
+  .Subscription form input {
+    height: 50px;
+  }
+  .last-btn {
+    margin-top: -48px;
+    height: 45px;
+    transform: translateX(-56%);
+  }
+}
+@media screen and (min-width: 1920px){
+  
+
+.top p{
+  padding: 20px 0px;
+}
+header {
+  margin-bottom: 0px;
+}
+.about-us {
+  margin-top: 100px;
+}
+
+} 
+
+
+
+
